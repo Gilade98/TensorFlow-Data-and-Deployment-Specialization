@@ -6,8 +6,8 @@ Welcome to my TensorFlow Data and Deployment Specialization Journey Repository! 
 
 This repository documents my learning path and projects as I work towards completing the TensorFlow: Data and Deployment Specialization.   
 I am currently enrolled in the 4 course series offered by Deeplearning.ai on Coursera.   
-Join me in understanding how to train and run machine learning models in browsers and in mobile applications, learn how to leverage built-in datasets with just a few lines of code, learn about data pipelines with TensorFlow data services, use APIs to control data splitting, process all types of unstructured data, and retrain deployed models with user data while maintaining data privacy. 
-  My new knowledge will be applied in various deployment scenarios and as I get introduced to TensorFlow Serving, TensorFlow, Hub, TensorBoard, and more. 
+Join me in understanding how to train and run machine learning models in browsers and in mobile applications, learn how to leverage built-in datasets with just a few lines of code, learn about data pipelines with TensorFlow data services, use APIs to control data splitting, process all types of unstructured data, and retrain deployed models with user data while maintaining data privacy.   
+My new knowledge will be applied in various deployment scenarios and as I get introduced to TensorFlow Serving, TensorFlow, Hub, TensorBoard, and more. 
 
 
 ## Directory Structure
