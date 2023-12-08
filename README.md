@@ -29,7 +29,7 @@ Feel free to explore the directories and projects to follow along with my learni
 ## Resources
 
 - **Official Documentation**: [TensorFlow Documentation](https://www.tensorflow.org/)
-- **TensorFlow JS Documentation**:[https://js.tensorflow.org/api/latest/?_gl=1*wqtjpo*_ga*NDM5NDQ1Mjk2LjE2OTk0NzgwMTA.*_ga_W0YLR4190T*MTcwMjA1NDM5MC4xMC4xLjE3MDIwNTUyODguMC4wLjA.]
+- **TensorFlow JS Documentation**:[TensorFlow JS API](https://js.tensorflow.org/api/latest/?_gl=1*1d5klhh*_ga*NDM5NDQ1Mjk2LjE2OTk0NzgwMTA.*_ga_W0YLR4190T*MTcwMjA1NDM5MC4xMC4xLjE3MDIwNTUzNjIuMC4wLjA.)
 - **Specialization**: [TensorFlow: Data and Deployment Specialization on Coursera](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
 - **Official Courses GitHub by DeapLearning.ai**: [DeepLearning.ai GitHub](https://github.com/https-deeplearning-ai/tensorflow-2-public)
 
