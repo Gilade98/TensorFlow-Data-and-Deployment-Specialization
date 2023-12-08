@@ -1,4 +1,4 @@
-# TensorFlow-Data-and-Deployment-Specialization
+# TensorFlow Data and Deployment Specialization
 
 Welcome to my TensorFlow Data and Deployment Specialization Journey Repository! 🚀
 
